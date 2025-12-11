@@ -9,9 +9,12 @@
     pkgs.yarn
     pkgs.nodePackages.pnpm
     pkgs.bun
+    pkgs.openssl_3
   ];
   # Sets environment variables in the workspace
-  env = {};
+  env = {
+    LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [ pkgs.openssl_3 ];
+  };
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
