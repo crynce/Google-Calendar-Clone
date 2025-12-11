@@ -282,3 +282,179 @@
 [info] Updating Studio Workspace active project to match Firebase CLI 'calenadarapp'
 [error] Failed to update Firebase Project for Studio Workspace because WORKSPACE_SLUG environment variable is empty
 [info] Now using project calenadarapp
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-11T10:40:09.469Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.471Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.499Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.501Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.501Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.502Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.504Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.505Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.506Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.506Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.508Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.508Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.509Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.509Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.512Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.512Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.513Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.513Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.515Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.518Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.518Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.519Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.521Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.523Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.523Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.523Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.525Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.526Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.526Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.527Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.542Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.543Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.543Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.543Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.544Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.545Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.545Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.545Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.545Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.546Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.547Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.548Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.548Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.548Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.549Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.549Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.550Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.550Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.551Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.551Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.552Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.552Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.552Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.553Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.553Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.553Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.555Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.555Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.555Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.555Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.557Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.558Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.558Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.558Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.559Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.560Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.560Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.561Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.568Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.569Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.569Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.569Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.571Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.572Z] No OAuth tokens found
+[debug] [2025-12-11T10:40:09.572Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:09.572Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:09.574Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firestore.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.575Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firestore.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.652Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/storage.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.653Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/storage.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.659Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.659Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.664Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.664Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.667Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/fcm.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.667Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/fcm.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.670Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.670Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.672Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.672Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.677Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.678Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.681Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseio.com [none]
+[debug] [2025-12-11T10:40:09.681Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseio.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.686Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firestore.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.686Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firestore.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.689Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/storage.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.689Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/storage.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.692Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.692Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.696Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.697Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.700Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/fcm.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.700Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/fcm.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.704Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.704Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.710Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.710Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.713Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-12-11T10:40:09.713Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:09.717Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseio.com [none]
+[debug] [2025-12-11T10:40:09.718Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseio.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:40:10.934Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firestore.googleapis.com 200
+[debug] [2025-12-11T10:40:10.934Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firestore.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.033Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/storage.googleapis.com 200
+[debug] [2025-12-11T10:40:11.033Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/storage.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.116Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/fcm.googleapis.com 200
+[debug] [2025-12-11T10:40:11.117Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/fcm.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.165Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseio.com 403
+[debug] [2025-12-11T10:40:11.165Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseio.com [omitted]
+[debug] [2025-12-11T10:40:11.202Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-12-11T10:40:11.206Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.218Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudfunctions.googleapis.com 200
+[debug] [2025-12-11T10:40:11.219Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.224Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/identitytoolkit.googleapis.com 200
+[debug] [2025-12-11T10:40:11.225Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.258Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-11T10:40:11.259Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.261Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firestore.googleapis.com 200
+[debug] [2025-12-11T10:40:11.261Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firestore.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.294Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/identitytoolkit.googleapis.com 200
+[debug] [2025-12-11T10:40:11.294Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.336Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-11T10:40:11.336Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.365Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseio.com 403
+[debug] [2025-12-11T10:40:11.371Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseio.com [omitted]
+[debug] [2025-12-11T10:40:11.395Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-12-11T10:40:11.395Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.430Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/storage.googleapis.com 200
+[debug] [2025-12-11T10:40:11.432Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/storage.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.453Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/fcm.googleapis.com 200
+[debug] [2025-12-11T10:40:11.453Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/fcm.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.489Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-12-11T10:40:11.490Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.529Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-12-11T10:40:11.529Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-12-11T10:40:11.541Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudfunctions.googleapis.com 200
+[debug] [2025-12-11T10:40:11.541Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudfunctions.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-11T10:40:11.558Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:11.559Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-11T10:40:11.562Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:11.562Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-11T10:40:11.618Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:11.618Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:11.618Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:11.618Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-11T10:40:11.623Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:11.623Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:40:11.624Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:40:11.624Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
