@@ -262,3 +262,23 @@
 [debug] [2025-12-11T09:44:08.204Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
 [debug] [2025-12-11T09:44:08.209Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
 [debug] [2025-12-11T09:44:08.210Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-11T10:33:04.252Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:33:04.252Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-11T10:33:04.269Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-11T10:33:04.270Z] > authorizing via signed-in user (shobhit.choudhary22@gmail.com)
+[debug] [2025-12-11T10:33:04.285Z] No OAuth tokens found
+[debug] [2025-12-11T10:33:04.296Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudresourcemanager.googleapis.com [none]
+[debug] [2025-12-11T10:33:04.296Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudresourcemanager.googleapis.com x-goog-quota-user=projects/calenadarapp
+[debug] [2025-12-11T10:33:05.711Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudresourcemanager.googleapis.com 200
+[debug] [2025-12-11T10:33:05.712Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/calenadarapp/services/cloudresourcemanager.googleapis.com [omitted]
+[debug] [2025-12-11T10:33:05.728Z] No OAuth tokens found
+[debug] [2025-12-11T10:33:05.731Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/projects/calenadarapp [none]
+[debug] [2025-12-11T10:33:06.569Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/projects/calenadarapp 200
+[debug] [2025-12-11T10:33:06.569Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/projects/calenadarapp {"projectNumber":"321494756534","projectId":"calenadarapp","lifecycleState":"ACTIVE","name":"calenadarApp","labels":{"firebase":"enabled","firebase-core":"disabled"},"createTime":"2025-12-11T02:46:44.357862Z"}
+[info] Updating Studio Workspace active project to match Firebase CLI 'calenadarapp'
+[error] Failed to update Firebase Project for Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[info] Now using project calenadarapp
