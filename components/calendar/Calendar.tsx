@@ -5,7 +5,7 @@ import {
   useEffect,
   useRef,
   useOptimistic,
-  startTransition,
+  useTransition,
 } from "react";
 import FullCalendar from "@fullcalendar/react";
 import dayGridPlugin from "@fullcalendar/daygrid";
@@ -28,6 +28,7 @@ export default function Calendar() {
   const [selectedEvent, setSelectedEvent] = useState<Event | null>(null);
   const [selectedDate, setSelectedDate] = useState<Date | null>(null);
   const calendarRef = useRef<FullCalendar>(null);
+  const [isPending, startTransition] = useTransition();
 
   const [optimisticEvents, setOptimisticEvents] = useOptimistic(
     events,
