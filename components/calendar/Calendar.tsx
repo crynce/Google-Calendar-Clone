@@ -78,8 +78,8 @@ export default function Calendar() {
     event: {
       id: string;
       title: string;
-      start: Date;
-      end: Date;
+      start: Date | null;
+      end: Date | null;
       allDay: boolean;
     };
   }) => {
@@ -92,13 +92,18 @@ export default function Calendar() {
   };
 
   const handleEventDrop = async (arg: {
-    event: { id: string; start: Date; end: Date; allDay: boolean };
+    event: {
+      id: string;
+      start: Date | null;
+      end: Date | null;
+      allDay: boolean;
+    };
   }) => {
     const { event } = arg;
-    if (event.id) {
+    if (event.id && event.start) {
       await updateEvent(event.id, {
         start: event.start.toISOString(),
-        end: event.end.toISOString(),
+        end: event.end ? event.end.toISOString() : event.start.toISOString(),
         allDay: event.allDay,
       });
       fetchEvents();
