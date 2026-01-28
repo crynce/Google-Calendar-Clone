@@ -1,4 +1,3 @@
-
 import { db } from "./client";
 import {
   collection,
@@ -22,8 +21,13 @@ export interface Event {
 
 const EVENTS_COLLECTION = "events";
 
-export const addEvent = (event: Event) => {
-  return addDoc(collection(db, EVENTS_COLLECTION), event);
+export const addEvent = async (event: Event) => {
+  try {
+    const response = await addDoc(collection(db, EVENTS_COLLECTION), event);
+    return response;
+  } catch (error) {
+    console.log(error);
+  }
 };
 
 export const updateEvent = (id: string, event: Partial<Event>) => {
@@ -37,6 +41,9 @@ export const deleteEvent = (id: string) => {
 };
 
 export const getEvents = (userId: string) => {
-  const q = query(collection(db, EVENTS_COLLECTION), where("userId", "==", userId));
+  const q = query(
+    collection(db, EVENTS_COLLECTION),
+    where("userId", "==", userId),
+  );
   return getDocs(q);
 };
